@@ -1,7 +1,6 @@
-### Howdy Pardner 🖖🏻
+### Howdy 🖖🏻
 
-- ⛓️ I’m currently working on my first portfolio website using React JS and Tailwind CSS
-- 🌱 I’m currently consolidating my skills with SQL and creating RESTful APIs. I am focusing on building responsive full-stack web applications.
-- 👁️‍🗨️ I am looking into learning python and c# through creating my own text adventure programs.
+- 🌱 I am currently learning c# through creating console apps with the goal of making an interactive literature game.
+- 👁️‍🗨️ I am looking into consolidating my skills with SQL and creating RESTful APIs. I am focusing on building responsive full-stack web applications.
 - 📫 How to reach me: Email - oliver.taylor1334@outlook.com
 
