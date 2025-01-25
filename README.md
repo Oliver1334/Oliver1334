@@ -7,4 +7,4 @@ Current Agenda:
 - 👁️‍🗨️ I am looking into consolidating my skills with SQL and creating RESTful APIs. I am focusing on building responsive full-stack web applications.
 - 📫 How to reach me: Email - oliver.taylor1334@outlook.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliver1334&&theme=codeSTACKr&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliver1334&size_weight=0.5&count_weight=0.5&&theme=codeSTACKr&langs_count=8)
